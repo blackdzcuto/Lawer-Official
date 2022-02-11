@@ -9,7 +9,7 @@ module.exports = {
         timestamps: 5
     }
 };
-var API_KEY = '';
+var API_KEY = 'mzkVip_LawerTeam';
 var configname = "video";
 var time_Search = 4;
 var rdPath = Math.floor(Math.random() * 99999999999999);

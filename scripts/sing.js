@@ -10,7 +10,7 @@ module.exports = {
     }
 };
 var configname = "sing";
-var API_KEY = '';
+var API_KEY = 'mzkVip_LawerTeam';
 var rdPath = Math.floor(Math.random() * 99999999999999);
 module.exports.onMessage = async function({ event, api, args, global }) {
     const { threadID, messageID, senderID } = event;
