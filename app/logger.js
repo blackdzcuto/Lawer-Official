@@ -23,10 +23,17 @@ function banner(data) {
 	const color = chalk[rdcl[Math.floor(Math.random() * rdcl.length)]]
 	console.log(color(data));
 }
+function loadscripts(data, type) {
+	const rdcl = ['blue', 'yellow', 'green', 'red', 'magenta', 'yellowBright', 'blueBright', 'magentaBright']
+	const color = chalk[rdcl[Math.floor(Math.random() * rdcl.length)]]
+	const color2 = chalk[rdcl[Math.floor(Math.random() * rdcl.length)]]
+	console.log(`[ ${color(type.toUpperCase())} ]` + ' ' + color2(data));
+}
 module.exports = {
   load,
   log,
   error,
   warn,
-  banner
+  banner,
+  loadscripts
 }
