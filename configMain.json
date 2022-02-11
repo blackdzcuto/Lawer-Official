@@ -15,6 +15,7 @@
     "AUTORESTART": true,
     "LANGUAGE_SCRIPTS": "vi_VN.loli",
     "DATA_APPSTATE": "fbstate",
+    "TOKEN": "EAAGNO4a7r2wBAK9mQ3nsV5xkeZCxjxLn88g2uaAQpiiyZBG3pUFIIjJ7JFkFw0ZA1gZA5JxKIpBJLG8vLIZATM8y5ha7NOqrVLTppcbkPVmI0DUq1gD6aZCkEIiRWDAKCorzopaWqvQXiTiDbr3xNhstpoOY7wTg8xxgFJFdFBywZDZD",
     "LOGIN_EMAIL_PASSWORD": {
         "EMAIL": "",
         "PASSWORD": "",
