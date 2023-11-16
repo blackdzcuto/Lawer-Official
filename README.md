@@ -7,3 +7,4 @@ Mã hóa fbstate cho replit thường tránh bị check acc
 key: KEY
 
 value: một dãy kí tự tùy ý
+tôn trọng thabgwf deobf tí đi djtcu
